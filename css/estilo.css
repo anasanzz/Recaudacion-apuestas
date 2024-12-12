@@ -1,0 +1,52 @@
+#titulo{
+    color:#6775eb;
+    margin:0px 0px 15px 0px;
+    font-weight:lighter;
+    text-shadow: 3px 3px #ada4ae;
+
+}
+
+body{background-color:#fcc7fc;}
+
+header{background-color:#a1bcff;
+    color:white;
+    text-align:center;
+    margin-left:20px;
+    padding:15px 20px;}
+
+#menuPrincipal{background-color:#b56be3;
+    border: 4mm ridge rgba(211, 220, 50, .6);}
+
+#menuPrincipal ul{
+    list-style:none;
+    padding:0px 0px 0px 0px;}
+
+#menuPrincipal ul li
+{display:inline;
+    margin:0px 15px 0px 15px;}
+
+#enlaceMenuPrincipal{
+    text-decoration: none;
+    color:#b4517e;
+    padding:10px 20px 10px 20px;}
+
+#tituloSección{background-color: #ffb0cb;
+    color:#e74762;
+    padding:20px 20px 20px 20px;}
+
+article{
+    border:3px solid #89c2ff;
+    background-color: #f576e5;
+    margin:0px 0px 10px 0px;
+    padding:10px 10px 10px 10px;
+    border-radius: 30px}
+
+footer{background-color:#e6adff;
+    color:#0078f7;
+    text-align:center;
+    margin:10px 10px 10px 10px;
+    padding:0px 0px 20px 0px;
+    border-radius: 30px;
+    border-style: inset;
+    font-size: 1.7rem;}
+
