@@ -1,12 +1,12 @@
 #titulo{
-    color:#6775eb;
+    color:#000000;
     margin:0px 0px 15px 0px;
     font-weight:lighter;
-    text-shadow: 3px 3px #ada4ae;
+    text-shadow: 3px 3px #ffe92e;
 
 }
 
-body{background-color:#fcc7fc;}
+body{background-color:#fffeac;}
 
 header{background-color:#a1bcff;
     color:white;
