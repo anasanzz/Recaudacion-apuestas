@@ -8,13 +8,13 @@
 
 body{background-color:#fffeac;}
 
-header{background-color:#a1bcff;
+header{background-color:#000000;
     color:white;
     text-align:center;
     margin-left:20px;
     padding:15px 20px;}
 
-#menuPrincipal{background-color:#b56be3;
+#menuPrincipal{background-color:#f2f082;
     border: 4mm ridge rgba(211, 220, 50, .6);}
 
 #menuPrincipal ul{
@@ -27,22 +27,22 @@ header{background-color:#a1bcff;
 
 #enlaceMenuPrincipal{
     text-decoration: none;
-    color:#b4517e;
+    color:#000000;
     padding:10px 20px 10px 20px;}
 
-#tituloSección{background-color: #ffb0cb;
-    color:#e74762;
+#tituloSección{background-color: #fffa00;
+    color:#000000;
     padding:20px 20px 20px 20px;}
 
 article{
-    border:3px solid #89c2ff;
-    background-color: #f576e5;
+    border:3px solid #fffa8d;
+    background-color: #ccc64a;
     margin:0px 0px 10px 0px;
     padding:10px 10px 10px 10px;
     border-radius: 30px}
 
-footer{background-color:#e6adff;
-    color:#0078f7;
+footer{background-color:#000000;
+    color:#fff000;
     text-align:center;
     margin:10px 10px 10px 10px;
     padding:0px 0px 20px 0px;
